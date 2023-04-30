@@ -78,6 +78,7 @@ a:hover, a:active {
 
 .project > p {
     margin-left: 4rem;
+    margin-right: 4rem;
     padding: 1rem;
     margin-bottom: 1.5rem;
     background:rgb(255 255 255);
