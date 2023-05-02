@@ -88,7 +88,7 @@ a:hover, a:active {
 .project > p {
     margin-top: 0;
     margin-left: -1rem;
-    margin-right: 0;
+    margin-right: -1rem;
     padding: 1rem;
     height: 100%;
     background:rgb(255 255 255);
